@@ -11,7 +11,7 @@ Overview
       - |docs|
     * - tests
       - | |travis|
-        | |codecov|
+        | |codacy|
     * - package
       - | |version| |wheel| |supported-versions| |supported-implementations|
         | |commits-since|
@@ -23,9 +23,7 @@ Overview
     :alt: Travis-CI Build Status
     :target: https://travis-ci.org/toolunious/zeekoers
 
-.. |codecov| image:: https://codecov.io/github/toolunious/zeekoers/coverage.svg?branch=master
-    :alt: Coverage Status
-    :target: https://codecov.io/github/toolunious/zeekoers
+.. |codacy| image:: https://api.codacy.com/project/badge/Grade/c239597a091a4d45a6b9884f52be4623    :target: https://www.codacy.com/manual/toolunious/zeekoers?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=toolunious/zeekoers&amp;utm_campaign=Badge_Grade
 
 .. |version| image:: https://img.shields.io/pypi/v/zeekoers.svg
     :alt: PyPI Package latest release
